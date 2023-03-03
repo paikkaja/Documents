@@ -4,6 +4,9 @@ for i in range (1, 101):
 
 i = 1
 while i < 101:
-    if i % 2 == 1:
-        print(i)
+    if i % 2 == 0:
+        print(i, "adalah blngn genap")
+    else:
+        print(i, "adalah blgn genap")
     i = i + 1
+    
