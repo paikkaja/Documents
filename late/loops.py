@@ -7,5 +7,5 @@ while i < 101:
         print(i, "adalah blngn genap")
     else:
         print(i, "adalah blgn genap")
-    i = i + 1
+    i = i + 2
     
